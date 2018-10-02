@@ -8,7 +8,7 @@ Things to do:
 5. Ratings
 6. Apply for Mentor
 7. Search Bar for both Users and Tags
-8. 
+8.
 
 
 
